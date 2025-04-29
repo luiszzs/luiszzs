@@ -5,10 +5,14 @@
 <br>
 
 #  Hobbies e gostos
+ <img widght="370" eight="370" align="right" src="https://media.tenor.com/wjU738X-azsAAAAM/tounge-out-batman.gif" />
+ 
  - Gosto muito do Batman(mesmo não tendo um grande conhecimento)
  - Amo guitarras(não entendo nada de instrumentos)
  - Gosto de jogar esportes(qualquer um, mas sou ruim em todos)
  - Curto muito animes(ainda estou tentando chegar nos semanais de one piece)
+<br>
+<br>
 
  ## Contato
  <div>
@@ -24,4 +28,4 @@
  </div>
 
  
- <img align="right" widht="100px" src="https://media.tenor.com/wjU738X-azsAAAAM/tounge-out-batman.gif" />
+
