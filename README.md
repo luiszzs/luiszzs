@@ -25,7 +25,7 @@
  ## Bônus
  <div>
 <audio controls>
-  <source src="https://luiszzs.github.io/README/ai-love-ai-love-her-r-e-p-o.mp3" type="audio/mpeg">
+  <source src="https://README.github.io/luiszzs/ai-love-ai-love-her-r-e-p-o.mp3" type="audio/mpeg">
 
 </audio>
 </audio>
