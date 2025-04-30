@@ -24,8 +24,9 @@
  
  ## Bônus
  <div>
-<a href="https://www.Youtube.com/shorts/ZkN0LdB4iAQ/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  
+<audio controls>
+  <source src="ai.love.mp3" type="audio/mp3">
+</audio>
  </div>
 
  
