@@ -24,11 +24,7 @@
  
  ## Bônus
  <div>
-<audio controls>
-  <source src="https://README.github.io/luiszzs/ai-love-ai-love-her-r-e-p-o.mp3" type="audio/mpeg">
-
-</audio>
-</audio>
+  <a href="https://www.Youtube.com/shorts/ZkN0LdB4iAQ/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
  </div>
 
  
