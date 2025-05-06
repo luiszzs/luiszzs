@@ -5,7 +5,7 @@
 <br>
 
 #  Hobbies e gostos
- <img widght="340" eight="340" align="right" src="https://media.tenor.com/wjU738X-azsAAAAM/tounge-out-batman.gif" />
+ <img widght="290" eight="290" align="right" src="https://media.tenor.com/wjU738X-azsAAAAM/tounge-out-batman.gif" />
  
  - Gosto muito do Batman(mesmo não tendo um grande conhecimento);
  - Amo guitarras(não entendo nada de instrumentos);
@@ -14,7 +14,6 @@
  - Gosto de videogame;
  - já falei que gosto do batman?
 
-<br>
 <br>
 
  ## Contato
