@@ -27,7 +27,7 @@
  ## Bônus
 
  
- <div>
+ <div align="center">
   <a href="https://www.Youtube.com/shorts/ZkN0LdB4iAQ/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
- <img height="170"  align="right" src="https://i.imgur.com/d75PxVH.png"/>
+  <img height="170" align="right" src="https://i.imgur.com/d75PxVH.png"/>
  </div>
