@@ -23,6 +23,5 @@
       <a href="https://wa.me/5585989921214?text=oi!%20vim%20do%20seu%20perfil%20do%20github%2C%20vamo%20conversar%3F" taget="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  </div>
  <div>
- src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <img height="170" align="right" src="https://i.imgur.com/d75PxVH.png"/>
  </div>
