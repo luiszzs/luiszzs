@@ -1,4 +1,4 @@
-#  E ai, sinta-se à vontade no meu Github
+#  E ai, sinta-se à vontade no meu Github!
 ## Conheça mais sobre mim
 ### Meu nome é Luis(mais conhecido como Louis), tenho 15 anos, atualmento estou cursando Desenvolvimento de Sistemas na EEEP Deputado Roberto Mesquita!
 <br>
