@@ -14,6 +14,10 @@
  - Gosto de videogame;
  - já falei que gosto do batman?
 
+#  Aprendendo:
+
+<img align="center" alt="Evs-Js" title="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 <br>
 <br>
 
