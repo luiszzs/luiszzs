@@ -13,8 +13,9 @@
  - Curto muito animes(ainda estou tentando chegar nos semanais de one piece);
  - Gosto de videogame;
  - já falei que gosto do batman?
-   
-<br>
+
+   <br>
+   <br>
 
 #  Aprendendo:
 
